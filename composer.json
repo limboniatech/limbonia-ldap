@@ -1,6 +1,6 @@
 {
     "name": "limboniatech/limbonia-ldap",
-    "description": "This is the Limbonia LDap library",
+    "description": "This is the Limbonia LDAP library",
     "type": "library",
     "license": "BSD-3-Clause",
     "authors": [
